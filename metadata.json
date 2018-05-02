@@ -1,0 +1,50 @@
+{
+  "name": "tuto-chocolateyserver",
+  "version": "1.0.1",
+  "author": "Ksugiu",
+  "summary": "This module install and manage a Chocolatey.Server in Windows environment.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ksugiu/chocolateyserver",
+  "project_page": "https://github.com/ksugiu/chocolateyserver",
+  "issues_url": "https://github.com/ksugiu/chocolateyserver/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs/chocolatey",
+      "version_requirement": ">= 3.0.0 < 4.0.0"
+    },
+    {
+      "name": "puppetlabs/acl",
+      "version_requirement": ">= 2.0.0 < 3.0.0"
+    },
+    {
+      "name": "puppetlabs/iis",
+      "version_requirement": ">= 4.0.0 < 5.0.0"
+    }
+  ],
+  "data_provider": null,
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "windows",
+      "operatingsystemrelease": [
+        "2012 R2",
+        "2016"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.7.0 < 6.0.0"
+    }
+  ],
+  "pdk-version": "1.4.1",
+  "template-url": "file://C:/PROGRA~1/PUPPET~1/DevelopmentKit/share/cache/pdk-templates.git",
+  "template-ref": "1.4.1-0-g52adbbb",
+  "tags": [
+    "chocolatey",
+    "server",
+    "ksugiu",
+    "iis",
+    "package"
+  ]
+}

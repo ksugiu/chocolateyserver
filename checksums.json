@@ -1,0 +1,14 @@
+{
+  "CHANGELOG.md": "64342a9081c8b0a02d582d7ed3af1594",
+  "Gemfile": "ea23ffa04a6d42730dc4860a927c8029",
+  "README.md": "4a887a91a6f23bcbb9aeb0ab7667b918",
+  "Rakefile": "38a86b8d40fcf274253552f72a138d05",
+  "appveyor.yml": "717f32c23fa58ff77394c2c15a5d05af",
+  "manifests/acl.pp": "8dee4dbdc62f8bb3827a769a1d75fc7a",
+  "manifests/init.pp": "5995402184d77a5778a59af867b55572",
+  "manifests/packages.pp": "c39b21b35bfc7ff2c5b7afeac38f40ce",
+  "manifests/setupweb.pp": "c5e61b0b9cec9ea0c197b6529f95af24",
+  "metadata.json": "93f2c7eae056dab0a61bc2eb3e20bf99",
+  "spec/default_facts.yml": "9bfb206675d4ee70d7fe311164f9f97d",
+  "spec/spec_helper.rb": "6a4b58b14762fbc94864ca91e2a68ad2"
+}
